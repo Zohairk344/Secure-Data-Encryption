@@ -9,6 +9,8 @@ A secure data storage and retrieval system built with Streamlit. This app featur
 
 ---
 
+press login/signup page twice if it doesnt work.
+
 ## Features
 
 - **User Registration and Login:**  
